@@ -1,3 +1,8 @@
+##This is a study project
+
+- I've forked this from the OSE Foundry System. Original can be found [here](https://gitlab.com/mesfoliesludiques/foundryvtt-ose)
+- I'll try to create a [Caves and Hexes](https://cavesandhexes.com) system for Foundry VTT
+
 # Old School Essentials System for Foundry VTT (Unofficial)
 All the features you need to play Old School Essentials or B/X Games in Foundry VTT.
 
